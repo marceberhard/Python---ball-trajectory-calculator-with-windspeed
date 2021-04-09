@@ -1,6 +1,6 @@
 # ReadMe
 
-!- - - not for professional use - - -!
+!- - - not for professional use, exclude liability, no liability  - - -!
 
 Year: 2021 (FS)
 
@@ -21,6 +21,7 @@ School: OST, Switzerland - Computer Science
 ## Correctness of calculations
 
 !---> Data is cut off when reaching negative Levels <-> not 100% accurate.
+!---> Excluded liability, no liability
 
 ## Language
 
