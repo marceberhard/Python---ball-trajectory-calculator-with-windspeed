@@ -6,6 +6,13 @@ Year: 2021 (FS)
 
 School: OST, Switzerland - Computer Science
 
+## Script explanation
+- Trajectory-ball_ValueCall.py
+  - change hardcoded values in editor/IDE
+- Trajectory-ball_ConsoleQueries.py
+  - Asks user for value input
+  - two predefined demo-values functions
+ 
 ## What it is
 
 - Physic, throw with positive/negative windspeed(front/back)
