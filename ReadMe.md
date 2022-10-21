@@ -2,9 +2,9 @@
 
 !- - - not for professional use, exclude liability, no liability  - - -!
 
-Year: 2021 (FS)
+Year: 2021, spring term
 
-School: OST, Switzerland - Computer Science
+University: OST, Switzerland - Computer Science
 
 ## Script explanation
 - Trajectory-ball_ValueCall.py
