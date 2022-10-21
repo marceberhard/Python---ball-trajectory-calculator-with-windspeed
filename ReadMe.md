@@ -3,7 +3,6 @@
 !- - - not for professional use, exclude liability, no liability  - - -!
 
 Year: 2021, spring term
-
 University: OST, Switzerland - Computer Science
 
 ## Script explanation
@@ -14,19 +13,12 @@ University: OST, Switzerland - Computer Science
   - two predefined demo-values functions
  
 ## What it is
-
 - Physic, throw with positive/negative windspeed(front/back)
 - trajectory throw of a ball/bowl
 
 ## Correctness of calculations
-
 !---> Data is cut off when reaching negative Levels <-> not 100% accurate.
 !---> Excluded liability, no liability
 
-## Language
-
-Python
-
 ## License
-
 You are free to adapt, reuse, optimize according to MIT License
